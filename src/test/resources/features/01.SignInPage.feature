@@ -6,3 +6,6 @@ Feature: verifying user authorization
     When click on Login button
     Then home page is opened
     Then "Administrator" user name is displayed
+
+
+    test
