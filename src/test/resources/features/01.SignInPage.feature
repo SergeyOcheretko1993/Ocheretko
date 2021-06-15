@@ -8,4 +8,4 @@ Feature: verifying user authorization
     Then "Administrator" user name is displayed
 
 
-    test
+    hdsfhdsg
